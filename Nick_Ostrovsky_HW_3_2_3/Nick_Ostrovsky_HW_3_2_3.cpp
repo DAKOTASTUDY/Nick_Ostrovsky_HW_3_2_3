@@ -33,7 +33,7 @@ int main()
     home1._FlatNum = 808;
     home1._ZipCode = 905723;
     struct_print(home1);
-
+    return (0);
 }
 void struct_print(home_adress& home)
 {
